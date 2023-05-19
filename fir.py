@@ -1,2 +1,2 @@
-print('welcome to')
+print('welcome less')
 print('welcome all')
