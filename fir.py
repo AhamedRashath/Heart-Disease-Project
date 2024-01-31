@@ -1,7 +1,0 @@
-print('welcome to')
-print('welcome all')
-print('welcome')
-print('level')
-print('less')
-print('legal')
-print('loss')
