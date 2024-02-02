@@ -10,12 +10,13 @@ patients.
 LIBRARIES USED:
 
 SKLEARN,
-Pandas
-Numpy
-MATPLOTLIB
+Pandas,
+Numpy,
+MATPLOTLIB,
 SEABORN
 
 Machine Learning Algorithm Used:
-Decision Tree Classifier
-Random Forest Classifier
-SVC
+Decision Tree Classifier,
+Random Forest Classifier,
+SVC,
+Logistic Regression
