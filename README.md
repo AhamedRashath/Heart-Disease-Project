@@ -9,10 +9,9 @@ patients.
 
 LIBRARIES USED:
 
-SKLEARN,
-Pandas,
-Numpy,
-MATPLOTLIB,
+SKLEARN
+PANDAS
+MATPLOTLIB
 SEABORN
 
 Machine Learning Algorithm Used:
