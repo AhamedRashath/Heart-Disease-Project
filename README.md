@@ -9,10 +9,10 @@ patients.
 
 LIBRARIES USED:
 
-SKLEARN
-PANDAS
-MATPLOTLIB
-SEABORN
+SKLEARN,
+PANDAS,
+MATPLOTLIB,
+SEABORN.
 
 Machine Learning Algorithm Used:
 Decision Tree Classifier,
