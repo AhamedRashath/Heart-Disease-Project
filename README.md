@@ -1,6 +1,6 @@
 HEART DISEASE PROJECT:
 
-It is a Multi-class Classification machine learning project.in the project I used machine learning algorithm to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
+It is a Multi-class Classification machine learning project.in the project I used machine learning algorithms to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
 
 DATASET:
 
@@ -19,4 +19,4 @@ Machine Learning Algorithm Used:
 Decision Tree Classifier,
 Random Forest Classifier,
 SVC,
-Logistic Regression
+Logistic Regression.
