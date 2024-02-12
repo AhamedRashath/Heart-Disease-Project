@@ -56,14 +56,14 @@ The dataset used for this project car price prediction multiple regression which
 
 LIBRARIES USED:
 
-SKLEARN,
-PANDAS,
-MATPLOTLIB,
-SEABORN.
+1)SKLEARN
+2)PANDAS,
+3)MATPLOTLIB,
+4)SEABORN.
 
 Machine Learning Algorithm Used:
-mean_squared_error,
-mean_absolute_error.
+1)mean_squared_error,
+2)mean_absolute_error.
 
 DIABETES PROJECT:
 It is a binary class Classification machine learning project.in the project I used machine learning algorithms to predict the diabetes.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'class variable'.
