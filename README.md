@@ -16,7 +16,7 @@ PANDAS,
 MATPLOTLIB,
 SEABORN.
 
-Machine Learning Algorithm Used:
+ALGORITHMS USED:
 Decision Tree Classifier,
 Random Forest Classifier,
 SVC,
@@ -62,7 +62,10 @@ LIBRARIES USED:
 3)MATPLOTLIB,
 4)SEABORN.
 
-Machine Learning Algorithm Used:
+ALGORITHMS USED:
+LINEAR REGRESSION
+
+METRICS USED:
 1)mean_squared_error,
 2)mean_absolute_error.
 
@@ -128,6 +131,21 @@ For Each Attribute: (all numeric-valued)
 Missing Attribute Values: Yes
 Class Distribution: (class value 1 is interpreted as "tested positive for
 diabetes")
+
+LIBRARIES USED:
+
+1)SKLEARN,
+2)PANDAS,
+3)MATPLOTLIB,
+4)SEABORN.
+
+ALGORITHMS USED:
+LOGISTIC REGRESSION(solver='liblinear')
+
+METRICS USED:
+1)Classification_Report,
+2)Accuracy_Score,
+3)Confusion_Matrix
 
 
 
