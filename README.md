@@ -2,7 +2,7 @@ ML PROJECTS:
 
 HEART DISEASE PROJECT:
 
-It is a Multi-class Classification machine learning project.in the project I used machine learning algorithms to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
+It is a Multi-class Classification machine learning project.in the project I used classification algorithms to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
 
 DATASET:
 
@@ -24,7 +24,7 @@ Logistic Regression.
 
 
 CAR PRICE ASSIGNMENT PROJECT:
-It is a Regression machine learning project.in the project I used machine learning algorithms to predict the car price.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'price'.
+It is a Regression machine learning project.in the project I used classification algorithms to predict the car price.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'price'.
 
 ABOUT DATASET:
 The dataset used for this project car price prediction multiple regression which contains 25 columns:
@@ -67,7 +67,7 @@ Machine Learning Algorithm Used:
 2)mean_absolute_error.
 
 DIABETES PROJECT:
-It is a binary class Classification machine learning project.in the project I used machine learning algorithms to predict the diabetes.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'class variable'.
+It is a binary class Classification machine learning project.in the project I classification algorithms to predict the diabetes.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'class variable'.
 
 About Dataset
 Context
