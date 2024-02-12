@@ -22,6 +22,7 @@ Random Forest Classifier,
 SVC,
 Logistic Regression.
 
+
 CAR PRICE ASSIGNMENT PROJECT:
 It is a Regression machine learning project.in the project I used machine learning algorithms to predict the car price.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'price'.
 
