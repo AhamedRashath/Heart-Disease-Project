@@ -2,7 +2,7 @@ ML PROJECTS:
 
 HEART DISEASE PROJECT:
 
-It is a Multi-class Classification machine learning project.in the project I used classification algorithms to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
+It is a Multi-class Classification machine learning project.I used classification algorithms to predict the heart disease.I downloaded the data from kaggle website and that data contains lot of columns include the predictable feature 'Target'.
 
 DATASET:
 
